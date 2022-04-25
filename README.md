@@ -7,3 +7,7 @@ For the analysis, we employ the following methods:
 - Principal Component Analysis to reduce data dimension
 - K-Means to cluster cryptocurrencies
 - 2D and 3D scatter plots to visualize classification results
+
+## Results
+We now have a total of 532 marketable cryptocurrencies after the preprocessing and cleaning step.
+
